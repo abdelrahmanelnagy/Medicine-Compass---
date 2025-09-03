@@ -1,0 +1,5 @@
+{
+  "name": "Drug Compass",
+  "description": "An intelligent drug reference application providing detailed, reliable, and region-specific pharmaceutical information in both Arabic and English. It features smart search, comprehensive drug profiles, and data sourced from official medical bodies.",
+  "requestFramePermissions": []
+}
