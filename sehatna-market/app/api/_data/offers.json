@@ -1,0 +1,14 @@
+[
+  {
+    "id": "o1",
+    "productId": "1",
+    "title": "خصم 10%",
+    "discount": 0.1
+  },
+  {
+    "id": "o2",
+    "productId": "2",
+    "title": "اشتر 2 واحصل على 1",
+    "discount": 0.33
+  }
+]

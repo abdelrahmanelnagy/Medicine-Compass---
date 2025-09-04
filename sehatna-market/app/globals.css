@@ -1,0 +1,10 @@
+body {
+  direction: rtl;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  padding: 1rem;
+}
